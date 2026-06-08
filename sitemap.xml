@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://pingpaid-calc-roi.pages.dev/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://pingpaid-calc-roi.pages.dev/roi-calculator.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://pingpaid-calc-roi.pages.dev/cash-flow-calculator.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://pingpaid-calc-roi.pages.dev/client-retention-score.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://pingpaid-calc-roi.pages.dev/freelancer-income-tracker.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-06-09</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pingpaid-calc-roi.pages.dev/sitemap.xml
